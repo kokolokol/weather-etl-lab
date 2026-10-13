@@ -1,0 +1,29 @@
+# Переменные окружения (секреты)
+.env
+
+# База данных SQLite
+*.db
+*.sqlite3
+
+# Выходные файлы
+weather_report.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# PyCharm
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
